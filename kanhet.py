@@ -1,7 +1,7 @@
 # kan ik een korte broek aan?
 import requests
 
-daan = input('ben je Daan Telkamp?')
+daan = input('ben je Daan Telkamp? (ja/nee)')
 
 if (daan == 'ja'):
     print('True')
